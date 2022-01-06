@@ -1,0 +1,17 @@
+[2022-01-06 21:06:27.945] [exthost] [info] Extension host with pid 42300 started
+[2022-01-06 21:06:27.946] [exthost] [info] Skipping acquiring lock for /home/kappa/.config/Code/User/workspaceStorage/8f0519049d6e355ae55c3dd3403a87b8.
+[2022-01-06 21:06:28.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-06 21:06:28.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-06 21:06:28.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-06 21:06:28.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-06 21:06:28.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-06 21:06:28.637] [exthost] [info] Eager extensions activated
+[2022-01-06 21:06:28.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 21:06:28.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 21:06:28.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-06 21:08:06.507] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: '*'
+[2022-01-06 21:08:30.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-06 21:08:30.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-06 21:08:30.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-06 21:32:56.413] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-06 21:32:56.435] [exthost] [info] Extension host with pid 42300 exiting with code 0

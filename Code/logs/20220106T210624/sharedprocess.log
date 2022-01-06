@@ -1,0 +1,7 @@
+[2022-01-06 21:06:40.449] [sharedprocess] [info] Starting worker process with pid 42390 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-06 21:07:55.135] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2022-01-06 21:07:58.972] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /home/kappa/.config/Code/CachedExtensionVSIXs/equinusocio.vsc-material-theme-icons-2.2.1
+[2022-01-06 21:08:06.126] [sharedprocess] [info] Extracted extension to /home/kappa/.vscode/extensions/.9be9ffe7-1aa8-4193-a2a4-15892b0984f9: equinusocio.vsc-material-theme-icons
+[2022-01-06 21:08:06.139] [sharedprocess] [info] Renamed to /home/kappa/.vscode/extensions/equinusocio.vsc-material-theme-icons-2.2.1
+[2022-01-06 21:08:06.144] [sharedprocess] [info] Extracting completed. equinusocio.vsc-material-theme-icons
+[2022-01-06 21:08:06.149] [sharedprocess] [info] Extension installed successfully: equinusocio.vsc-material-theme-icons

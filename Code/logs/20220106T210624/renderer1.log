@@ -1,0 +1,3 @@
+[2022-01-06 21:06:27.431] [renderer1] [error] [Extension Host] (node:42300) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-06 21:06:37.176] [renderer1] [error] Error while registering log channel file:///home/kappa/.config/Code/logs/20220106T210624/userDataSync.log Timed out while waiting for file to be created
