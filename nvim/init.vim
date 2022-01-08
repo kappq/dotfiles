@@ -70,3 +70,6 @@ nmap <silent> <c-l> :wincmd l<CR>
 " Navigate between problems
 nmap <c-n> :call CocAction('diagnosticNext')<CR>
 nmap <c-p> :call CocAction('diagnosticPrevious')<CR>
+
+" Open NERDTree on the right
+let g:NERDTreeWinPos = "right"
