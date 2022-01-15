@@ -2,3 +2,6 @@ add_newline = false
 
 [line_break]
 disabled = true
+
+[directory]
+truncation_length = 1
